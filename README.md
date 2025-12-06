@@ -2,6 +2,8 @@
 
 A lightweight, high-performance API gateway built with [Hono](https://hono.dev/) for routing and proxying requests to multiple backend services. Features a database-backed service registry with full CRUD operations.
 
+If you want a more powerful production ready proxy server, could refer to [redbird](https://github.com/OptimalBits/redbird)
+
 ## Features
 
 - 🚀 **Lightweight**: Built on Hono, one of the fastest web frameworks
